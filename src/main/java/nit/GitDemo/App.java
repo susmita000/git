@@ -13,4 +13,7 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    public void add() {
+    	System.out.println("add data");
+    }
 }
